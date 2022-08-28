@@ -1,0 +1,8 @@
+https://www.liaoxuefeng.com/wiki/1252599548343744/1255876875896416
+https://www.w3cschool.cn/python/python-tutorial.html
+https://www.runoob.com/
+https://www.weixueyuan.net/a/807.html
+http://www.codebaoku.com/golang/golang-index.html
+
+一个模具推翻了之前的所有框架。也因为遇到好了。就一个大首页，然后再分页就行了。最后加一个博客頁面。这样也就可以了。是否需要博客。我现在都还在考虑。还是在电子书上去丰富吧！做大一些也就可以了！后面做一个电子也就可以了。按照一年的时间来分类。每次有更新时就只更新那一版。电子书跟title 的匹配回头再说。而且每次只增加一个比较小
+文章整理成册，也便于管理。单页还是无法做到效率。即便是编写。最后更新一个册子也就可以了

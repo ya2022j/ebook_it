@@ -1,0 +1,12 @@
+     location /eb1 {
+           alias /usr/local/nginx/conf/ebook_list/eb1;
+           index  index.html index.htm;
+           autoindex on;
+     }
+
+     location /eb2 {
+           alias /usr/local/nginx/conf/ebook_list/eb2;
+           index  index.html index.htm;
+           autoindex on;
+     }
+
